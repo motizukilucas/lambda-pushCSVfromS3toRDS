@@ -1,0 +1,5 @@
+add_record=INSERT INTO test(date, value, product, qtd) VALUES (%s, %s, %s, %s)
+db_name=
+password=
+rds_endpoint=
+username=
